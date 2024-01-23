@@ -1,3 +1,3 @@
 # TropicraftMC
 
-This will be a Mincraft client
+Stay tuned, Tropicraft, a new and modern Minecraft Client is in development!
